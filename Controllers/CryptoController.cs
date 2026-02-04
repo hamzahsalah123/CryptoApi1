@@ -1,4 +1,6 @@
-﻿using Microsoft.AspNetCore.Mvc;
+// Encryption and decryption endpoints
+
+using Microsoft.AspNetCore.Mvc;
 
 [ApiController]
 [Route("api/[controller]")]
